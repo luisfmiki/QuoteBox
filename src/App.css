@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+#root {
+  background-color: white;
+  display: flex;
+  border-radius: 4px;
+
+}
+.div {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  margin: 25px 30px 25px 30px;
+}
+.btn {
+  display: flex;
+  align-self: flex-end;
+  border: none;
+  height: 35px;
+  border-radius: 3px;
+  font-size: 0.85em;
+  padding: 8px 18px 6px 18px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 1.5s;
+}
+.btn:hover{
+  opacity: 0.9;
+}
+.Autor {
+  text-align: right; 
+  margin-right: 10px; 
+  transition: color 1.5s;
+} 
+.Frases {
+  transition: color 1.5s;
+  font-size: 20px;
+}  
