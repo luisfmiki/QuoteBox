@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be0c26c5a0b512e2fa715a9b645e461a",
+    "revision": "2c478e56082e1533b91eea7f1a885090",
     "url": "/QuoteBox/index.html"
   },
   {
-    "revision": "824d4613e8cea88b50c9",
-    "url": "/QuoteBox/static/css/main.5f361e03.chunk.css"
+    "revision": "d56d76df8a30d09d15bd",
+    "url": "/QuoteBox/static/css/main.04cdd705.chunk.css"
   },
   {
-    "revision": "db535150fb711c8e5a0c",
-    "url": "/QuoteBox/static/js/2.1b625caa.chunk.js"
+    "revision": "eb6fb0182a2c833d459f",
+    "url": "/QuoteBox/static/js/2.2762fa92.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/QuoteBox/static/js/2.1b625caa.chunk.js.LICENSE.txt"
+    "url": "/QuoteBox/static/js/2.2762fa92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "824d4613e8cea88b50c9",
-    "url": "/QuoteBox/static/js/main.9b25aa6b.chunk.js"
+    "revision": "d56d76df8a30d09d15bd",
+    "url": "/QuoteBox/static/js/main.3364ca20.chunk.js"
   },
   {
     "revision": "dbe29c41d9ba099d76f7",
