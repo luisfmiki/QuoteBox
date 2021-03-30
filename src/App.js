@@ -11,7 +11,7 @@ const cores = ["red", "green", "blue", 'black', 'orange']
 
 const Frase = (props) => {
   return (
-    <div>
+    <div id="in">
     <span style={props.style} className="Frases">{props.frase}</span>
     <p style={props.style} className="Autor">{props.autor}</p>
     </div>
